@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'mob_sharesdk'
+  s.name             = 'MGShareSDK'
   s.version          = "4.2.6"
   s.summary          = 'ShareSDK is the most comprehensive Social SDK in the world,which share easily with 40+ platforms.'
   s.license          = 'MIT'
